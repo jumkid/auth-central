@@ -1,5 +1,5 @@
-# oauth-service
-a microservice for oauth2 authentication services
+# auth-service
+a microservice for authentidationa and authentication services
 
 # Database Setup 
 This is for mysql. Please start mysql service first
